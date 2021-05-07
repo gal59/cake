@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(252, 228, 231);
+}
+.main{
+    border-right: solid 80px rgb(207, 228, 207);
+    border-left: solid 80px rgb(207, 228, 207);
+    padding: 1px 50px;
+    width: 800px;
+    margin: 0 auto;
+}
+.title{
+    font-family: 'Pacifico', cursive;
+    color: orangered;
+    text-align: center;
+    font-size: 40px;
+}
+.title2{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+.cook1{
+    margin: 100px auto;
+    text-decoration: underline;
+}
+.cook2{
+    letter-spacing: 10px;
+}
+.text1{
+    font-family: 'Pacifico', cursive;
+}
+p{
+    font-family: 'Alice', serif;
+}
+.color1{
+    color: orangered;
+}
+.block1{
+    background-color: rgb(207, 228, 207);
+    padding: 10px;
+    margin: 20px auto;
+}
+.block2{
+    border: solid black 2px;
+    padding: 20px;
+    margin: 50px auto;
+}
+.block3{
+    background-color: rgb(192, 174, 174);
+    padding: .1px;
+    height: 120px;
+}
